@@ -17,10 +17,11 @@ Find **three bugs** hidden in this GUI app.
 
 ### How to Start
 A. Running the unit test
-1. Run test_app.py to run the unit test. This covers the core logic of the application, including:
+1. Run `test_app.py` to run the unit test. This covers the core logic of the application, including:
    - Toggling between Run and Stop states
    - Whether the label updates with numbers when running
    - Whether updates stop when toggled off
+   
 Note that not all bugs can be found in unit test.
 
 B. Run the app to test manually
